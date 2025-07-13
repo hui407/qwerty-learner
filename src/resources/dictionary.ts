@@ -1622,6 +1622,17 @@ const internationalExam: DictionaryResource[] = [
 // 青少儿英语
 const childrenEnglish: DictionaryResource[] = [
   {
+    id: 'look-1',
+    name: '托马斯look1',
+    description: '托马斯look1',
+    category: '青少年英语',
+    tags: ['通用'],
+    url: '/dicts/look_1.json',
+    length: 539,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'gaokao3500',
     name: '高考 3500 词',
     description: '高考常见词 3500',
