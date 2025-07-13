@@ -1632,6 +1632,17 @@ const childrenEnglish: DictionaryResource[] = [
     language: 'en',
     languageCategory: 'en',
   },
+   {
+    id: 'look-2',
+    name: '托马斯look2',
+    description: '托马斯look2',
+    category: '青少年英语',
+    tags: ['通用'],
+    url: '/dicts/look_2.json',
+    length: 145,
+    language: 'en',
+    languageCategory: 'en',
+  },
   {
     id: 'gaokao3500',
     name: '高考 3500 词',
