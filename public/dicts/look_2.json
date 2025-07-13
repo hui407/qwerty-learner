@@ -1,0 +1,582 @@
+[
+  {
+    "name": "look",
+    "trans": ["v. 看"]
+  },
+  {
+    "name": "remember",
+    "trans": ["v. 记住，记得"]
+  },
+  {
+    "name": "scuba diver",
+    "trans": ["n. 潜水员"]
+  },
+  {
+    "name": "fish",
+    "trans": ["n. 鱼；v. 钓鱼；fishing n. 钓鱼"]
+  },
+  {
+    "name": "coast",
+    "trans": ["n. 海岸；coastal adj. 沿海的"]
+  },
+  {
+    "name": "off the coast",
+    "trans": ["phr. 沿海岸"]
+  },
+  {
+    "name": "arm",
+    "trans": ["n. 胳膊"]
+  },
+  {
+    "name": "bee",
+    "trans": ["n. 蜜蜂"]
+  },
+  {
+    "name": "clock",
+    "trans": ["n. 时钟"]
+  },
+  {
+    "name": "flipper",
+    "trans": ["n. 脚蹼"]
+  },
+  {
+    "name": "game",
+    "trans": ["n. 游戏"]
+  },
+  {
+    "name": "leg",
+    "trans": ["n. 腿"]
+  },
+  {
+    "name": "mask",
+    "trans": ["n. 面具"]
+  },
+  {
+    "name": "shower",
+    "trans": ["n. 淋浴"]
+  },
+  {
+    "name": "water",
+    "trans": ["n. 水"]
+  },
+  {
+    "name": "How many …",
+    "trans": ["phr. …多少个"]
+  },
+  {
+    "name": "people",
+    "trans": ["n. 人，人们"]
+  },
+  {
+    "name": "are there",
+    "trans": ["phr. 有（用于复数）"]
+  },
+  {
+    "name": "spot",
+    "trans": ["n. 斑点，地点"]
+  },
+  {
+    "name": "can",
+    "trans": ["v. 能，会"]
+  },
+  {
+    "name": "swim",
+    "trans": ["v. 游泳；swimming n. 游泳；swimmer n. 游泳者"]
+  },
+  {
+    "name": "sheep",
+    "trans": ["n. 绵羊（单复数同形）"]
+  },
+  {
+    "name": "sing",
+    "trans": ["v. 唱歌；singer n. 歌手"]
+  },
+  {
+    "name": "chicken",
+    "trans": ["n. 鸡，鸡肉"]
+  },
+  {
+    "name": "walk",
+    "trans": ["v. 走路；n. 步行"]
+  },
+  {
+    "name": "duck",
+    "trans": ["n. 鸭子"]
+  },
+  {
+    "name": "talk",
+    "trans": ["v. 说话，交谈"]
+  },
+  {
+    "name": "write",
+    "trans": ["v. 写；writer n. 作家"]
+  },
+  {
+    "name": "your",
+    "trans": ["det., adj. 你的，你们的"]
+  },
+  {
+    "name": "name",
+    "trans": ["n. 名字"]
+  },
+  {
+    "name": "friend",
+    "trans": ["n. 朋友；friendly adj. 友好的"]
+  },
+  {
+    "name": "read",
+    "trans": ["v. 读"]
+  },
+  {
+    "name": "let’s",
+    "trans": ["phr. 让我们（let us 的缩写）"]
+  },
+  {
+    "name": "in",
+    "trans": ["prep. 在……里面"]
+  },
+  {
+    "name": "sea",
+    "trans": ["n. 大海"]
+  },
+  {
+    "name": "family",
+    "trans": ["n. 家庭"]
+  },
+  {
+    "name": "eat",
+    "trans": ["v. 吃"]
+  },
+  {
+    "name": "ice cream",
+    "trans": ["n. 冰淇淋"]
+  },
+  {
+    "name": "town centre",
+    "trans": ["n. 市中心"]
+  },
+  {
+    "name": "park",
+    "trans": ["n. 公园"]
+  },
+  {
+    "name": "there’s",
+    "trans": ["phr. 有（there is 的缩写）"]
+  },
+  {
+    "name": "shop",
+    "trans": ["n. 商店"]
+  },
+  {
+    "name": "farm",
+    "trans": ["n. 农场"]
+  },
+  {
+    "name": "have got",
+    "trans": ["v. 有"]
+  },
+  {
+    "name": "banana",
+    "trans": ["n. 香蕉"]
+  },
+  {
+    "name": "poster",
+    "trans": ["n. 海报"]
+  },
+  {
+    "name": "next to",
+    "trans": ["prep. 在……旁边"]
+  },
+  {
+    "name": "under",
+    "trans": ["prep. 在……下面"]
+  },
+  {
+    "name": "dad",
+    "trans": ["n. 爸爸"]
+  },
+  {
+    "name": "mum",
+    "trans": ["n. 妈妈"]
+  },
+  {
+    "name": "big brother",
+    "trans": ["n. 哥哥"]
+  },
+  {
+    "name": "little brother",
+    "trans": ["n. 弟弟"]
+  },
+  {
+    "name": "he’s got",
+    "trans": ["phr. 他有（he has got 的缩写）"]
+  },
+  {
+    "name": "she’s got",
+    "trans": ["phr. 她有（she has got 的缩写）"]
+  },
+  {
+    "name": "jacket",
+    "trans": ["n. 夹克衫"]
+  },
+  {
+    "name": "hat",
+    "trans": ["n. 帽子"]
+  },
+  {
+    "name": "shirt",
+    "trans": ["n. 衬衫"]
+  },
+  {
+    "name": "trousers",
+    "trans": ["n pl. 裤子"]
+  },
+  {
+    "name": "there are",
+    "trans": ["phr. 有（用于复数）"]
+  },
+  {
+    "name": "bedroom",
+    "trans": ["n. 卧室"]
+  },
+  {
+    "name": "kitchen",
+    "trans": ["n. 厨房"]
+  },
+  {
+    "name": "living room",
+    "trans": ["n. 客厅"]
+  },
+  {
+    "name": "lamp",
+    "trans": ["n. 灯"]
+  },
+  {
+    "name": "bathroom",
+    "trans": ["n. 浴室"]
+  },
+  {
+    "name": "sister",
+    "trans": ["n. 姐妹"]
+  },
+  {
+    "name": "grandma",
+    "trans": ["n. 奶奶，外婆"]
+  },
+  {
+    "name": "aunt",
+    "trans": ["n. 阿姨，姑姑，婶婶等"]
+  },
+  {
+    "name": "cousin",
+    "trans": ["n. 堂（表）兄弟姐妹"]
+  },
+  {
+    "name": "brother",
+    "trans": ["n. 兄弟"]
+  },
+  {
+    "name": "grandpa",
+    "trans": ["n. 爷爷，外公"]
+  },
+  {
+    "name": "uncle",
+    "trans": ["n. 叔叔，舅舅，姑父等"]
+  },
+  {
+    "name": "Is it …",
+    "trans": ["phr. 它是……吗"]
+  },
+  {
+    "name": "or",
+    "trans": ["conj. 或者"]
+  },
+  {
+    "name": "fine",
+    "trans": ["adj. 好的，健康的"]
+  },
+  {
+    "name": "thank you",
+    "trans": ["excl. 谢谢你"]
+  },
+  {
+    "name": "classmate",
+    "trans": ["n. 同班同学"]
+  },
+  {
+    "name": "get",
+    "trans": ["v. 得到，变得"]
+  },
+  {
+    "name": "pencil",
+    "trans": ["n. 铅笔"]
+  },
+  {
+    "name": "pen",
+    "trans": ["n. 钢笔"]
+  },
+  {
+    "name": "open",
+    "trans": ["v. 打开；adj. 打开的"]
+  },
+  {
+    "name": "book",
+    "trans": ["n. 书"]
+  },
+  {
+    "name": "have a look",
+    "trans": ["exp. 看一看"]
+  },
+  {
+    "name": "It’s",
+    "trans": ["phr. 它是（it is 的缩写）"]
+  },
+  {
+    "name": "time",
+    "trans": ["n. 时间"]
+  },
+  {
+    "name": "for",
+    "trans": ["prep. 为了，给"]
+  },
+  {
+    "name": "learning",
+    "trans": ["n. 学习；learn v. 学习"]
+  },
+  {
+    "name": "begin",
+    "trans": ["v. 开始；beginning n. 开始；beginner n. 初学者"]
+  },
+  {
+    "name": "Have you got …",
+    "trans": ["phr. 你有……吗"]
+  },
+  {
+    "name": "No, I haven’t",
+    "trans": ["phr. 不，我没有"]
+  },
+  {
+    "name": "like",
+    "trans": ["v. 喜欢"]
+  },
+  {
+    "name": "please",
+    "trans": ["excl. 请"]
+  },
+  {
+    "name": "touch",
+    "trans": ["v. 触摸；n. 触摸"]
+  },
+  {
+    "name": "nose",
+    "trans": ["n. 鼻子"]
+  },
+  {
+    "name": "back",
+    "trans": ["prep. 回到，向后"]
+  },
+  {
+    "name": "school",
+    "trans": ["n. 学校"]
+  },
+  {
+    "name": "at school",
+    "trans": ["phr. 在学校"]
+  },
+  {
+    "name": "Where are …",
+    "trans": ["phr. …在哪里"]
+  },
+  {
+    "name": "thing",
+    "trans": ["n. 东西，事物"]
+  },
+  {
+    "name": "art",
+    "trans": ["n. 艺术"]
+  },
+  {
+    "name": "music",
+    "trans": ["n. 音乐；musical adj. 音乐的；musician n. 音乐家"]
+  },
+  {
+    "name": "computers",
+    "trans": ["n pl. 电脑；computer n. 电脑（单数）"]
+  },
+  {
+    "name": "PE",
+    "trans": ["n. 体育"]
+  },
+  {
+    "name": "English",
+    "trans": ["n. 英语；English adj. 英语的，英国的"]
+  },
+  {
+    "name": "reading",
+    "trans": ["n. 阅读；read v. 读"]
+  },
+  {
+    "name": "maths",
+    "trans": ["n. 数学"]
+  },
+  {
+    "name": "science",
+    "trans": ["n. 科学；scientist n. 科学家"]
+  },
+  {
+    "name": "Do you like …",
+    "trans": ["phr. 你喜欢……吗"]
+  },
+  {
+    "name": "Yes, I do",
+    "trans": ["phr. 是的，我喜欢"]
+  },
+  {
+    "name": "Monday",
+    "trans": ["n. 星期一"]
+  },
+  {
+    "name": "Tuesday",
+    "trans": ["n. 星期二"]
+  },
+  {
+    "name": "Wednesday",
+    "trans": ["n. 星期三"]
+  },
+  {
+    "name": "Thursday",
+    "trans": ["n. 星期四"]
+  },
+  {
+    "name": "Friday",
+    "trans": ["n. 星期五"]
+  },
+  {
+    "name": "I’ve got",
+    "trans": ["phr. 我有（I have got 的缩写）"]
+  },
+  {
+    "name": "on",
+    "trans": ["prep. 在……上面，在（某天）"]
+  },
+  {
+    "name": "Saturday",
+    "trans": ["n. 星期六"]
+  },
+  {
+    "name": "Sunday",
+    "trans": ["n. 星期日"]
+  },
+  {
+    "name": "there’s no",
+    "trans": ["phr. 没有"]
+  },
+  {
+    "name": "that’s",
+    "trans": ["phr. 那是（that is 的缩写）"]
+  },
+  {
+    "name": "cool",
+    "trans": ["adj. 酷的，凉爽的"]
+  },
+  {
+    "name": "too",
+    "trans": ["adv. 也，太"]
+  },
+  {
+    "name": "lesson",
+    "trans": ["n. 课"]
+  },
+  {
+    "name": "homework",
+    "trans": ["n. 家庭作业"]
+  },
+  {
+    "name": "class",
+    "trans": ["n. 班级，课"]
+  },
+  {
+    "name": "garden",
+    "trans": ["n. 花园"]
+  },
+  {
+    "name": "welcome",
+    "trans": ["excl. 欢迎；v., n. 欢迎"]
+  },
+  {
+    "name": "very",
+    "trans": ["adv. 非常"]
+  },
+  {
+    "name": "student",
+    "trans": ["n. 学生；study v. 学习"]
+  },
+  {
+    "name": "learn",
+    "trans": ["v. 学习"]
+  },
+  {
+    "name": "animal",
+    "trans": ["n. 动物"]
+  },
+  {
+    "name": "plant",
+    "trans": ["n. 植物；v. 种植"]
+  },
+  {
+    "name": "normal",
+    "trans": ["adj. 正常的；normally adv. 正常地"]
+  },
+  {
+    "name": "wall",
+    "trans": ["n. 墙"]
+  },
+  {
+    "name": "window",
+    "trans": ["n. 窗户"]
+  },
+  {
+    "name": "classroom",
+    "trans": ["n. 教室"]
+  },
+  {
+    "name": "open",
+    "trans": ["adj. 打开的；v. 打开"]
+  },
+  {
+    "name": "from … to",
+    "trans": ["prep. 从……到……"]
+  },
+  {
+    "name": "every",
+    "trans": ["det. 每个"]
+  },
+  {
+    "name": "flower",
+    "trans": ["n. 花"]
+  },
+  {
+    "name": "rice",
+    "trans": ["n. 米饭"]
+  },
+  {
+    "name": "fruit",
+    "trans": ["n. 水果"]
+  },
+  {
+    "name": "give",
+    "trans": ["v. 给"]
+  },
+  {
+    "name": "food",
+    "trans": ["n. 食物"]
+  },
+  {
+    "name": "all",
+    "trans": ["det. 所有的"]
+  },
+  {
+    "name": "day",
+    "trans": ["n. 天，白天"]
+  }
+  ]
